@@ -3,7 +3,7 @@ AURA is Asus app for controlling LEDs. Voice AURA is simple python script that r
 
 ### Installation
 
-Dillinger requires [Python](https://www.python.org/) to run.
+This project requires [Python](https://www.python.org/) to run.
 
 Install the libraries.
 
